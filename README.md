@@ -28,10 +28,7 @@ Users can choose to either make a payment or record a purchase.
 
 3. Smart Forms with Confirmation
 Forms update dynamically based on user input.
-
-A confirmation modal appears before any action is processed to prevent mistakes.
-
-If "Cancel" is clicked, the form becomes re-usable again (fixed in latest update).
+- A confirmation modal appears before any action is processed to prevent mistakes.
 
 4. Automatic ID Lookup
 When recording payments or purchases, IDs for enrollees, schools, and items are automatically fetched from the database to maintain relational integrity.
@@ -44,6 +41,4 @@ Filters include:
 - Transaction type (payment or purchase)
 - Fee type
 - School name
-Data is sorted by created date (recent to old).
-The history can be exported to CSV.
 

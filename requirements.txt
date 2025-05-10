@@ -2,3 +2,4 @@ bcrypt
 mysql-connector-python
 pandas
 shiny
+gunicorn 

@@ -22,7 +22,7 @@ Admin staff in schools or training institutes
 ### 🔧 How It Works (Key Features)
 1. User Login System
 Only authorized users can log in with their email and password.
-<img src="https://github.com/Victortaiwo57/reconciliation-app/blob/main/Login.png" alt="Image" width="500" height="520">
+<img src="https://github.com/Victortaiwo57/reconciliation-app/blob/main/Login.png" alt="Image" width="500" height="300">
 
 3. Dynamic Task Selection
 Users can choose to either make a payment or record a purchase.

@@ -26,16 +26,16 @@ Only authorized users can log in with their email and password.
 
 3. Dynamic Task Selection
 Users can choose to either make a payment or record a purchase.
-<img src="https://github.com/Victortaiwo57/reconciliation-app/blob/main/Payment%20recorded%20notification.png" alt="Image" width="500" height="520">
+<img src="https://github.com/Victortaiwo57/reconciliation-app/blob/main/Payment%20recorded%20notification.png" alt="Image" width="500" height="300">
 
 4. Smart Forms with Confirmation
 Forms update dynamically based on user input.
 - A confirmation modal appears before any action is processed to prevent mistakes.
-<img src="https://github.com/Victortaiwo57/reconciliation-app/blob/main/Confirm%20Payment%20submission.png" alt="Image" width="500" height="520">
+<img src="https://github.com/Victortaiwo57/reconciliation-app/blob/main/Confirm%20Payment%20submission.png" alt="Image" width="500" height="300">
 
 4. Automatic ID Lookup
 When recording payments or purchases, IDs for enrollees, schools, and items are automatically fetched from the database to maintain relational integrity.
-<img src="https://github.com/Victortaiwo57/reconciliation-app/blob/main/Purchase%20recorded%20notification.png" width="500" height="520">
+<img src="https://github.com/Victortaiwo57/reconciliation-app/blob/main/Purchase%20recorded%20notification.png" width="500" height="300">
 
 5. Filterable and Exportable History Table
 Transactions (both payments and purchases) are merged and displayed in one table.

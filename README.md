@@ -22,16 +22,20 @@ Admin staff in schools or training institutes
 ### 🔧 How It Works (Key Features)
 1. User Login System
 Only authorized users can log in with their email and password.
+<img src="https://github.com/Victortaiwo57/reconciliation-app/blob/main/Login.png" alt="Image" width="500" height="520">
 
-2. Dynamic Task Selection
+3. Dynamic Task Selection
 Users can choose to either make a payment or record a purchase.
+<img src="https://github.com/Victortaiwo57/reconciliation-app/blob/main/Payment%20recorded%20notification.png" alt="Image" width="500" height="520">
 
-3. Smart Forms with Confirmation
+4. Smart Forms with Confirmation
 Forms update dynamically based on user input.
 - A confirmation modal appears before any action is processed to prevent mistakes.
+<img src="https://github.com/Victortaiwo57/reconciliation-app/blob/main/Confirm%20Payment%20submission.png" alt="Image" width="500" height="520">
 
 4. Automatic ID Lookup
 When recording payments or purchases, IDs for enrollees, schools, and items are automatically fetched from the database to maintain relational integrity.
+<img src="https://github.com/Victortaiwo57/reconciliation-app/blob/main/Purchase%20recorded%20notification.png" width="500" height="520">
 
 5. Filterable and Exportable History Table
 Transactions (both payments and purchases) are merged and displayed in one table.
